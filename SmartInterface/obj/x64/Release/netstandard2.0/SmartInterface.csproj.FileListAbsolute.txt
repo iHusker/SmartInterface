@@ -1,0 +1,12 @@
+C:\Users\Stef\source\repos\SmartInterface\bin\x64\Release\netstandard2.0\SmartInterface.deps.json
+C:\Users\Stef\source\repos\SmartInterface\bin\x64\Release\netstandard2.0\SmartInterface.dll
+C:\Users\Stef\source\repos\SmartInterface\bin\x64\Release\netstandard2.0\SmartInterface.pdb
+C:\Users\Stef\source\repos\SmartInterface\bin\x64\Release\netstandard2.0\UnityEngine.dll
+C:\Users\Stef\source\repos\SmartInterface\bin\x64\Release\netstandard2.0\UnityEngine.xml
+C:\Users\Stef\source\repos\SmartInterface\obj\x64\Release\netstandard2.0\SmartInterface.csprojAssemblyReference.cache
+C:\Users\Stef\source\repos\SmartInterface\obj\x64\Release\netstandard2.0\SmartInterface.csproj.CoreCompileInputs.cache
+C:\Users\Stef\source\repos\SmartInterface\obj\x64\Release\netstandard2.0\SmartInterface.AssemblyInfoInputs.cache
+C:\Users\Stef\source\repos\SmartInterface\obj\x64\Release\netstandard2.0\SmartInterface.AssemblyInfo.cs
+C:\Users\Stef\source\repos\SmartInterface\obj\x64\Release\netstandard2.0\SmartInterface.csproj.CopyComplete
+C:\Users\Stef\source\repos\SmartInterface\obj\x64\Release\netstandard2.0\SmartInterface.dll
+C:\Users\Stef\source\repos\SmartInterface\obj\x64\Release\netstandard2.0\SmartInterface.pdb

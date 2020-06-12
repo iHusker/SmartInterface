@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SmartInterface": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": true
+    }
+  }
+}
